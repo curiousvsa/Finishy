@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Finishy</string>
+    <string name="st_power_by">POWERED BY</string>
+    <string name="st_techievsa">TECHIEVSA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
